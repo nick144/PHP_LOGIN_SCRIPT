@@ -16,6 +16,7 @@
   width: 350px;
   margin: 0 auto;
   background:#ccc;
+ color:red;
 }
 
 
